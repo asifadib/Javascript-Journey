@@ -1,4 +1,4 @@
-# Nextra
+#  📒 সম্পূর্ণ ফ্রিতে বাংলায় জাভাস্ক্রিপ্ট শিখুন!
 
 **Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
 

@@ -4,8 +4,8 @@ export default {
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">জাভাস্ক্রিপ্ট জার্নি</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
-      📒 সম্পূর্ণ ফ্রিতে বাংলায় জাভাস্ক্রিপ্ট শিখুন !</span>
+      {/* <span className="text-gray-600 font-normal hidden md:inline">
+      📒 সম্পূর্ণ ফ্রিতে বাংলায় জাভাস্ক্রিপ্ট শিখুন !</span> */}
     </>
   ),
   head: (
