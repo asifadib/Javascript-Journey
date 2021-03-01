@@ -1,6 +1,6 @@
 export default {
   repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – সম্পূর্ণ ফ্রিতে বাংলায় জাভাস্ক্রিপ্ট শিখুন!',
+  titleSuffix: 'জাভাস্ক্রিপ্ট জার্নি – সম্পূর্ণ ফ্রিতে বাংলায় জাভাস্ক্রিপ্ট শিখুন!',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">জাভাস্ক্রিপ্ট জার্নি</span>
